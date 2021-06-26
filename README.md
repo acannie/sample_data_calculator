@@ -1,0 +1,2 @@
+# sample_data_calculator
+統計の各階級の割合の数字から母数を予測するサービス。
